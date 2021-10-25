@@ -1,4 +1,5 @@
 body{
+    
     font-family: arial;
 }
 .descricao{
@@ -7,11 +8,21 @@ body{
     flex-direction: column;
 }
 .produto{
+
     display: flex;
     flex-direction: row;
 }
 .lista>li{
+
     border: 1px solid #000;
     margin-bottom: 10px;
     list-style: none;
+}
+
+.lista{
+    padding: 0;
+}
+
+.buscar{
+    width: 100%;
 }
