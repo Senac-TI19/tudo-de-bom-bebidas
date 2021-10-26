@@ -1,4 +1,4 @@
-const cacheName = 'cache-app-v1'
+const cacheName = "tudo-de-bom-bebidas-v1"
 
 const recursosCacheados = [
     "./",
